@@ -1,0 +1,18 @@
+{
+  "name": "p09-countdown-timer-by-saifullah123",
+  "version": "1.0.2",
+  "description": "This cli based countdown timer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saifullahsafi454@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.2.22"
+  }
+}
